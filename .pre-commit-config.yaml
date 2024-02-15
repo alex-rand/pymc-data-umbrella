@@ -3,3 +3,6 @@ repos:
   rev: v4.1.0
   hooks:
   -   id: trailing-whitespace
+ci:
+  autofix_prs: false
+  
