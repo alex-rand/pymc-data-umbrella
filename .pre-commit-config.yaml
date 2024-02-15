@@ -4,5 +4,5 @@ repos:
   hooks:
   -   id: trailing-whitespace
 ci:
-  autofix_prs: false
+  autofix_prs: true
   
